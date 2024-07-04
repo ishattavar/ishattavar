@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Ishika Gupta (She/her), a passionate Python back-end developer trainee currently working at WalkingTree Technologies. I'm actively seeking opportunities as an Associate Software Engineer, Python Developer, Machine Learning Engineer, and Machine Learning Researcher.
+Hello! I'm Ishika Gupta, a passionate Python back-end developer trainee currently working at WalkingTree Technologies. I'm actively seeking opportunities as an Associate Software Engineer, Python Developer, Machine Learning Engineer, and Machine Learning Researcher.
 
 ### Contact Information
 
