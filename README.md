@@ -28,10 +28,6 @@ Hello! I'm Ishika Gupta (She/her), a passionate Python back-end developer traine
 - Working with Flask and Artificial Intelligence (AI)
 - Collaborating on various back-end projects
 
-### Intellexi
-**AI Intern**  
-*June 2024 - Present*  
-- Developing data analytics and AI solutions using Gen-AI
 
 ### CodeClause
 **AI Intern**  
