@@ -1,4 +1,4 @@
-# Ishika Gupta's GitHub Profile
+# My GitHub Profile
 
 ![Header](https://github.com/ishattavar/ishattavar/blob/main/header.png)
 
