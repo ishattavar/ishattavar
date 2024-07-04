@@ -1,14 +1,81 @@
-### Hi there 👋
+# Ishika Gupta's GitHub Profile
 
+![Header](https://github.com/ishattavar/ishattavar/blob/main/header.png)
 
+## About Me
 
-### 🔭 I am a computer science engineering student with a diverse set of interests and a strong passion for technology. My areas of focus include machine learning, artificial intelligence, web development, and content writing. I am driven by a desire to use my technical skills and knowledge to make a positive impact on the world and am always seeking new and innovative ways to apply my skills to real-world problems.
+Hello! I'm Ishika Gupta (She/her), a passionate Python back-end developer trainee currently working at WalkingTree Technologies. I'm actively seeking opportunities as an Associate Software Engineer, Python Developer, Machine Learning Engineer, and Machine Learning Researcher.
 
-In the field of machine learning and artificial intelligence, I am fascinated by the potential of these technologies to transform various industries and improve people's lives. I enjoy experimenting with different algorithms and models and building projects to demonstrate the power of these technologies.
+### Contact Information
 
-I am also deeply interested in web development and content writing. I am constantly seeking to enhance my skills in these areas and have already built a number of websites and written articles on various topics. I am particularly interested in the intersection between technology and writing and the ways in which they can be used together to communicate complex ideas and information to a wider audience.
+- **Location:** Agra, Uttar Pradesh, India
+- **Email:** [ishattavar@gmail.com](mailto:ishattavar@gmail.com)
+- **LinkedIn:** [Ishika Gupta](https://www.linkedin.com/in/ishika-gupta-she-her-96b015211)
+- **Linktree:** [Ishika's Linktree](https://linktr.ee/ishattavar?utm_source=linktree_admin_share)
 
-In conclusion, I am a well-rounded student with a passion for technology and its impact on the world. I am eager to use my skills and knowledge to make meaningful contributions to society and advance the field of computer science and engineering.
+## Education
+
+**Bachelor of Technology (BTech) in Computer Science**  
+*Graphic Era Deemed to be University*  
+*2020 - 2024*  
+- GPA: 8.45/10
+
+## Experience
+
+### WalkingTree Technologies
+**Associate Software Engineer Trainee**  
+*April 2024 - Present*  
+- Working with Flask and Artificial Intelligence (AI)
+- Collaborating on various back-end projects
+
+### Intellexi
+**AI Intern**  
+*June 2024 - Present*  
+- Developing data analytics and AI solutions using Gen-AI
+
+### CodeClause
+**AI Intern**  
+*December 2022 - January 2023*  
+- Gained experience in Python and Machine Learning
+
+## Skills
+
+- **Programming Languages:** C, C++, Java, SQL, Python, JavaScript, HTML, CSS
+- **Frameworks and Tools:** Flask, DBMS, Computer Networks, OOPs
+- **Soft Skills:** Effective Communication, Optimism, Hard Work, Adaptability, Avid Learner
+
+## Projects
+
+### [Speech Emotion Recognition](https://github.com/ishattavar/speechemotionrecognition)
+*June 2023 - June 2024*  
+- Implemented LSTM and BiLSTM algorithms for real-time speech sentiment analysis
+
+### [DDoS Attack Detection](https://github.com/ishattavar/ddos)
+*July 2023 - September 2023*  
+- Utilized Naive Bayes, Decision Tree, SVM, and KNN algorithms
+- Created a hybrid model using ensemble learning techniques
+
+## Open to Work
+
+I am currently open to new opportunities in the following roles:
+- Associate Software Engineer
+- Python Developer
+- Python Engineer
+- Machine Learning Engineer
+- Machine Learning Researcher
+
+## Connect with Me
+
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/ishika-gupta-she-her-96b015211) or email me at [ishattavar@gmail.com](mailto:ishattavar@gmail.com). Let's collaborate and create something amazing together!
+
+---
+
+![Footer](https://github.com/ishattavar/ishattavar/blob/main/footer.png)
+
+<!--
+**ishattavar/ishattavar** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+-->
 
 
 
