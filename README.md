@@ -40,23 +40,15 @@ Hello! I'm Ishika Gupta (She/her), a passionate Python back-end developer traine
 - **Frameworks and Tools:** Flask, DBMS, Computer Networks, OOPs
 - **Soft Skills:** Effective Communication, Optimism, Hard Work, Adaptability, Avid Learner
 
-## Projects
-
-### [Speech Emotion Recognition](https://github.com/ishattavar/speechemotionrecognition)
-*June 2023 - June 2024*  
-- Implemented LSTM and BiLSTM algorithms for real-time speech sentiment analysis
-
-### [DDoS Attack Detection](https://github.com/ishattavar/ddos)
-*July 2023 - September 2023*  
-- Utilized Naive Bayes, Decision Tree, SVM, and KNN algorithms
-- Created a hybrid model using ensemble learning techniques
-
 ## Open to Work
 
 I am currently open to new opportunities in the following roles:
 - Associate Software Engineer
+- Junior Java Developer
+- Junior Analyst
 - Python Developer
 - Python Engineer
+- Junior Data Science
 - Machine Learning Engineer
 - Machine Learning Researcher
 
