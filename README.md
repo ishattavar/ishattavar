@@ -8,7 +8,7 @@ Hello! I'm Ishika Gupta, a passionate Python back-end developer trainee currentl
 
 ### Contact Information
 
-- **Location:** Agra, Uttar Pradesh, India
+- **Location:** Delhi, India
 - **Email:** [ishattavar@gmail.com](mailto:ishattavar@gmail.com)
 - **LinkedIn:** [Ishika Gupta](https://www.linkedin.com/in/ishika-gupta-she-her-96b015211)
 - **Linktree:** [Ishika's Linktree](https://linktr.ee/ishattavar?utm_source=linktree_admin_share)
